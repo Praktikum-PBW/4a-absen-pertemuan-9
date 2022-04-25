@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 9
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Alif Karimullah] - [2010631170046]
 - [Jovanka Sandra Nathalie Silalahi] - [2010631170133]
 - [Alvi Yunniar] - [2010631170050]
 - [ANISAH] - [2010631170053]
