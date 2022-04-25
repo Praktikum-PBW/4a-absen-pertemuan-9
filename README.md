@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 9
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [ANISAH] - [2010631170053]
 - [Chintya Ana Tasya] - [2010631170005]
 - [Adrian Aufarrizqi] - [2010631170042]
 - [Annabella Dian Dameria Sinambela] - [2010631170054]
