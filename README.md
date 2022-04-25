@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 9
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Anisa Fitrianida Lutfiajati Pradhyani] - [2010631170003]
 - [Adrian Wibisono] - [2010631170043]
 - [Asyifa Maulana] - [2010631170004]
 - [Dede Fitriyani] - [2010631170007]
